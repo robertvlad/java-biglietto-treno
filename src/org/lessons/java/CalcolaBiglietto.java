@@ -27,7 +27,7 @@ public class CalcolaBiglietto {
 			System.out.println("Prezzo finale: " + String.format("%.2f" ,(prezzoPieno * scontoGiovani)));
 		}
 		else {
-			System.out.println(prezzoPieno);
+			System.out.println("Prezzo finale: " + String.format("%.2f" ,prezzoPieno));
 		}
 	}
 	
