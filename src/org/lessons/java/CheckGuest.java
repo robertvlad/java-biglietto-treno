@@ -59,5 +59,7 @@ public class CheckGuest {
 				
 			System.out.println("Lei NON è stato invitato alla festa");
 		}
+		
+		sc.close();
 	}
 }

@@ -29,6 +29,8 @@ public class CalcolaBiglietto {
 		else {
 			System.out.println("Prezzo finale: " + String.format("%.2f" ,prezzoPieno));
 		}
+		
+		sc.close();
 	}
 	
 }

@@ -37,6 +37,8 @@ public class FizzBuzz {
 			
 		}
 		
+		scan.close();
+		
 	}
 
 }
